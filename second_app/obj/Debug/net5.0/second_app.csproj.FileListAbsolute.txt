@@ -3,3 +3,14 @@
 /home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.AssemblyInfoInputs.cache
 /home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.AssemblyInfo.cs
 /home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/bin/Debug/net5.0/second_app
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/bin/Debug/net5.0/second_app.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/bin/Debug/net5.0/second_app.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/bin/Debug/net5.0/second_app.runtimeconfig.dev.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/bin/Debug/net5.0/second_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/bin/Debug/net5.0/ref/second_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/bin/Debug/net5.0/second_app.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/ref/second_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.genruntimeconfig.cache
