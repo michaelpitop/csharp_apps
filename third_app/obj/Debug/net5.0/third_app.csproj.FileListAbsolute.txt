@@ -1,0 +1,16 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/obj/Debug/net5.0/third_app.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/obj/Debug/net5.0/third_app.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/obj/Debug/net5.0/third_app.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/obj/Debug/net5.0/third_app.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/obj/Debug/net5.0/third_app.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/bin/Debug/net5.0/third_app
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/bin/Debug/net5.0/third_app.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/bin/Debug/net5.0/third_app.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/bin/Debug/net5.0/third_app.runtimeconfig.dev.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/bin/Debug/net5.0/third_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/bin/Debug/net5.0/ref/third_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/bin/Debug/net5.0/third_app.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/obj/Debug/net5.0/third_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/obj/Debug/net5.0/ref/third_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/obj/Debug/net5.0/third_app.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/third_app/obj/Debug/net5.0/third_app.genruntimeconfig.cache
