@@ -1,0 +1,5 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/second_app/obj/Debug/net5.0/second_app.csproj.CoreCompileInputs.cache
