@@ -1,0 +1,16 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/obj/Debug/net5.0/GPA_calc.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/obj/Debug/net5.0/GPA_calc.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/obj/Debug/net5.0/GPA_calc.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/obj/Debug/net5.0/GPA_calc.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/obj/Debug/net5.0/GPA_calc.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/bin/Debug/net5.0/GPA_calc
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/bin/Debug/net5.0/GPA_calc.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/bin/Debug/net5.0/GPA_calc.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/bin/Debug/net5.0/GPA_calc.runtimeconfig.dev.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/bin/Debug/net5.0/GPA_calc.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/bin/Debug/net5.0/ref/GPA_calc.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/bin/Debug/net5.0/GPA_calc.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/obj/Debug/net5.0/GPA_calc.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/obj/Debug/net5.0/ref/GPA_calc.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/obj/Debug/net5.0/GPA_calc.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/GPA_calc/obj/Debug/net5.0/GPA_calc.genruntimeconfig.cache
