@@ -1,0 +1,16 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/bin/Debug/net5.0/ninth_app
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/bin/Debug/net5.0/ninth_app.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/bin/Debug/net5.0/ninth_app.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/bin/Debug/net5.0/ninth_app.runtimeconfig.dev.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/bin/Debug/net5.0/ninth_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/bin/Debug/net5.0/ref/ninth_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/bin/Debug/net5.0/ninth_app.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/obj/Debug/net5.0/ninth_app.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/obj/Debug/net5.0/ninth_app.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/obj/Debug/net5.0/ninth_app.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/obj/Debug/net5.0/ninth_app.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/obj/Debug/net5.0/ninth_app.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/obj/Debug/net5.0/ninth_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/obj/Debug/net5.0/ref/ninth_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/obj/Debug/net5.0/ninth_app.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/ninth_app/obj/Debug/net5.0/ninth_app.genruntimeconfig.cache
