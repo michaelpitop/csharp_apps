@@ -1,0 +1,16 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/bin/Debug/net5.0/rpg_game
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/bin/Debug/net5.0/rpg_game.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/bin/Debug/net5.0/rpg_game.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/bin/Debug/net5.0/rpg_game.runtimeconfig.dev.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/bin/Debug/net5.0/rpg_game.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/bin/Debug/net5.0/ref/rpg_game.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/bin/Debug/net5.0/rpg_game.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/obj/Debug/net5.0/rpg_game.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/obj/Debug/net5.0/rpg_game.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/obj/Debug/net5.0/rpg_game.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/obj/Debug/net5.0/rpg_game.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/obj/Debug/net5.0/rpg_game.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/obj/Debug/net5.0/rpg_game.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/obj/Debug/net5.0/ref/rpg_game.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/obj/Debug/net5.0/rpg_game.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/rpg_game/obj/Debug/net5.0/rpg_game.genruntimeconfig.cache
