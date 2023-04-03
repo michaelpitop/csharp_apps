@@ -45,12 +45,12 @@ namespace RPGGame
         if (choice == 1)
         {
           Console.WriteLine($"\nYou attack the {enemyName} for {playerAttack} damage.");
-          enemyHealth -= playerAttack;
+          enemyHealth -= playerAttack - enemyDefense;
         }
         else if (choice == 2)
         {
           Console.WriteLine($"You brace for the enemy's attack.");
-          playerHealth -= enemyAttack;
+          playerHealth -= enemyAttack - playerDefense / 2;
         }
         else
         {
