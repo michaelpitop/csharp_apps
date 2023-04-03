@@ -79,7 +79,7 @@ namespace RPGGame
           Console.WriteLine($"You defeated the {enemyName}!");
         }
 
-        Console.ReadLine();
+        Console.ReadLine(); 
     }
   }
 }
