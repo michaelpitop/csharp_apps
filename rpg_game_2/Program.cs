@@ -10,19 +10,44 @@ using System;
 
 namespace RPGGame2
 {
-  class Programm
+  public class Programm
   {
     static void Main(string[] args)
     {
-      public class Player {
-        private string _name
-        public String Stats {
-          get {
+    PlayerInput playerInput = new PlayerInput();
 
-          }
-        }
+    Console.WriteLine("Please enter your name: ");
+
+    playerInput.Name = Console.ReadLine();
+
+    Console.WriteLine("Please choose a race: ");
+
+    playerInput.Race = int.Parse(Console.ReadLine());
+
+    int _race;
+
+    string _name;
+
+    Console.WriteLine("Your name is " + $"{playerInput.Name}");
+    Console.WriteLine($"{playerInput.Race}");
+
+  }
+
+  public class PlayerInput {
+    private string _name;
+    private int _race;
+
+    public string Name  {
+      get { return _name;}
+      set { _name = value; }
+      }
+
+    public int Race {
+      get { return _race; }
+      set { _race = value; }
       }
     }
 
-  }
+    }
+
 }
