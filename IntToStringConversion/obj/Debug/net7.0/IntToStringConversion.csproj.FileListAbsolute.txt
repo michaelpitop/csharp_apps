@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/bin/Debug/net7.0/IntToStringConversion
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/bin/Debug/net7.0/IntToStringConversion.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/bin/Debug/net7.0/IntToStringConversion.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/bin/Debug/net7.0/IntToStringConversion.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/bin/Debug/net7.0/IntToStringConversion.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/obj/Debug/net7.0/IntToStringConversion.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/obj/Debug/net7.0/IntToStringConversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/obj/Debug/net7.0/IntToStringConversion.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/obj/Debug/net7.0/IntToStringConversion.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/obj/Debug/net7.0/IntToStringConversion.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/obj/Debug/net7.0/IntToStringConversion.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/obj/Debug/net7.0/refint/IntToStringConversion.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/obj/Debug/net7.0/IntToStringConversion.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/obj/Debug/net7.0/IntToStringConversion.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/IntToStringConversion/obj/Debug/net7.0/ref/IntToStringConversion.dll
