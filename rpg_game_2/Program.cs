@@ -1,5 +1,5 @@
-﻿// user chooses their name
-// user gets to choose one of the selected races
+﻿// --user chooses their name--
+// ~~user gets to choose one of the selected races~~
 // each race has different attributes
 
 // we add multiple enemies like last time (not public)
@@ -19,22 +19,55 @@ namespace RPGGame2
             Console.WriteLine("Please enter your name: ");
             playerInput.Name = Console.ReadLine();
 
-            List<string> raceOptions = new List<string>() { "Human", "Elf", "Dwarf", "Orc", "Goblin" };
+            Console.WriteLine("Please choose a race:  \n1. Human \n2. Elf \n3. Dwarf \n4. Orc \n5. Goblin");
 
-            Console.WriteLine("Please choose a race: ");
-            for (int i = 0; i < raceOptions.Count; i++)
+
+            int raceChoice = 0;
+            string raceString = "";
+
+            bool validInput = false;
+            while (!validInput)
             {
-                Console.WriteLine($"{i + 1}. {raceOptions[i]}");
+                string input = Console.ReadLine();
+                if (int.TryParse(input, out raceChoice) && raceChoice >= 1 && raceChoice <= 5)
+                {
+                    validInput = true;
+                    switch (raceChoice)
+                    {
+                        case 1:
+                            raceString = "Human";
+                            Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
+                            break;
+                        case 2:
+                            raceString = "Elf";
+                            Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
+                            break;
+                        case 3:
+                            raceString = "Dwarf";
+                            Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
+                            break;
+                        case 4:
+                            raceString = "Orc";
+                            Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
+                            break;
+                        case 5:
+                            raceString = "Goblin";
+                            Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
+                            break;
+                        default:
+                          raceString = "Invalid";
+                          Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
+                          break;
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input, please try again.");
+                    break;
+                }
+                playerInput.Race = raceChoice;
             }
 
-            int raceChoice;
-            while (!int.TryParse(Console.ReadLine(), out raceChoice) || raceChoice < 1 || raceChoice > raceOptions.Count)
-            {
-                Console.WriteLine($"Invalid input. Please choose a number between 1 and {raceOptions.Count}");
-            }
-
-            Console.WriteLine($"Your name is {playerInput.Name}");
-            Console.WriteLine($"Your race is {playerInput.Race}");
         }
     }
 
@@ -50,24 +83,11 @@ namespace RPGGame2
         }
 
         public int Race
-            {
-                get { return _race; }
-                set { _race = value; }
-            }
+        {
+          get { return _race; }
+          set { _race = value; }
+        }
 
-            public List<string> RaceOptions
-            {
-                get
-                {
-                    return new List<string> {
-                    "Human",
-                    "Elf",
-                    "Dwarf",
-                    "Orc",
-                    "Goblin"
-                };
-                }
-            }
 
     }
 }
