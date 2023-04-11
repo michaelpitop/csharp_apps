@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/bin/Debug/net7.0/library
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/bin/Debug/net7.0/library.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/bin/Debug/net7.0/library.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/bin/Debug/net7.0/library.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/bin/Debug/net7.0/library.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/obj/Debug/net7.0/library.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/obj/Debug/net7.0/library.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/obj/Debug/net7.0/library.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/obj/Debug/net7.0/library.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/obj/Debug/net7.0/library.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/obj/Debug/net7.0/library.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/obj/Debug/net7.0/refint/library.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/obj/Debug/net7.0/library.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/obj/Debug/net7.0/library.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/library/obj/Debug/net7.0/ref/library.dll
