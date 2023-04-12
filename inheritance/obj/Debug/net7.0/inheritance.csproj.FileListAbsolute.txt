@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/bin/Debug/net7.0/inheritance
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/bin/Debug/net7.0/inheritance.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/bin/Debug/net7.0/inheritance.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/bin/Debug/net7.0/inheritance.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/bin/Debug/net7.0/inheritance.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/obj/Debug/net7.0/inheritance.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/obj/Debug/net7.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/obj/Debug/net7.0/inheritance.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/obj/Debug/net7.0/inheritance.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/obj/Debug/net7.0/inheritance.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/obj/Debug/net7.0/inheritance.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/obj/Debug/net7.0/refint/inheritance.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/obj/Debug/net7.0/inheritance.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/obj/Debug/net7.0/inheritance.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/inheritance/obj/Debug/net7.0/ref/inheritance.dll
