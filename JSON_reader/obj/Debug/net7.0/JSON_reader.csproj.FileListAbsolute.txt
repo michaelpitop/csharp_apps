@@ -1,0 +1,17 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/bin/Debug/net7.0/JSON_reader
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/bin/Debug/net7.0/JSON_reader.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/bin/Debug/net7.0/JSON_reader.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/bin/Debug/net7.0/JSON_reader.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/bin/Debug/net7.0/JSON_reader.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/JSON_reader.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/JSON_reader.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/JSON_reader.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/JSON_reader.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/JSON_reader.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/JSON_reader.csproj.CopyComplete
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/JSON_reader.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/refint/JSON_reader.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/JSON_reader.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/JSON_reader.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/obj/Debug/net7.0/ref/JSON_reader.dll

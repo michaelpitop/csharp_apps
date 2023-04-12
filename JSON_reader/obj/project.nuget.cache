@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A3NrxdBUeUHu0aGmZzI+VY0QrJWLzPyrflQiY6/gEB5hjDXzukLuirJH+MGQPzO4ZzeTs3W4rTA8wgvdaQeqPw==",
+  "success": true,
+  "projectFilePath": "/home/michaelpitop/code/michaelpitop/csharp_apps/JSON_reader/JSON_reader.csproj",
+  "expectedPackageFiles": [
+    "/home/michaelpitop/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
