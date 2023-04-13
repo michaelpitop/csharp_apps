@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/bin/Debug/net7.0/LinqChallenge
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/bin/Debug/net7.0/LinqChallenge.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/bin/Debug/net7.0/LinqChallenge.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/bin/Debug/net7.0/LinqChallenge.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/bin/Debug/net7.0/LinqChallenge.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/obj/Debug/net7.0/LinqChallenge.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/obj/Debug/net7.0/LinqChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/obj/Debug/net7.0/LinqChallenge.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/obj/Debug/net7.0/LinqChallenge.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/obj/Debug/net7.0/LinqChallenge.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/obj/Debug/net7.0/LinqChallenge.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/obj/Debug/net7.0/refint/LinqChallenge.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/obj/Debug/net7.0/LinqChallenge.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/obj/Debug/net7.0/LinqChallenge.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/LinqChallenge/obj/Debug/net7.0/ref/LinqChallenge.dll
