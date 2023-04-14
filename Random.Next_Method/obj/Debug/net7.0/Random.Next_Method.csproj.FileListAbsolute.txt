@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/bin/Debug/net7.0/Random.Next_Method
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/bin/Debug/net7.0/Random.Next_Method.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/bin/Debug/net7.0/Random.Next_Method.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/bin/Debug/net7.0/Random.Next_Method.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/bin/Debug/net7.0/Random.Next_Method.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/obj/Debug/net7.0/Random.Next_Method.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/obj/Debug/net7.0/Random.Next_Method.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/obj/Debug/net7.0/Random.Next_Method.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/obj/Debug/net7.0/Random.Next_Method.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/obj/Debug/net7.0/Random.Next_Method.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/obj/Debug/net7.0/Random.Next_Method.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/obj/Debug/net7.0/refint/Random.Next_Method.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/obj/Debug/net7.0/Random.Next_Method.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/obj/Debug/net7.0/Random.Next_Method.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/Random.Next_Method/obj/Debug/net7.0/ref/Random.Next_Method.dll

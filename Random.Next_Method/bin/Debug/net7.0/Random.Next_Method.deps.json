@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Random.Next_Method/1.0.0": {
+        "runtime": {
+          "Random.Next_Method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Random.Next_Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
