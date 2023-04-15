@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/bin/Debug/net7.0/RegularExpressions
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/bin/Debug/net7.0/RegularExpressions.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/bin/Debug/net7.0/RegularExpressions.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/bin/Debug/net7.0/RegularExpressions.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/bin/Debug/net7.0/RegularExpressions.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/obj/Debug/net7.0/RegularExpressions.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/obj/Debug/net7.0/RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/obj/Debug/net7.0/RegularExpressions.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/obj/Debug/net7.0/RegularExpressions.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/obj/Debug/net7.0/RegularExpressions.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/obj/Debug/net7.0/RegularExpressions.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/obj/Debug/net7.0/refint/RegularExpressions.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/obj/Debug/net7.0/RegularExpressions.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/obj/Debug/net7.0/RegularExpressions.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/RegularExpressions/obj/Debug/net7.0/ref/RegularExpressions.dll
