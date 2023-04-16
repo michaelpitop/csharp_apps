@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/bin/Debug/net7.0/QueueCollection
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/bin/Debug/net7.0/QueueCollection.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/bin/Debug/net7.0/QueueCollection.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/bin/Debug/net7.0/QueueCollection.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/bin/Debug/net7.0/QueueCollection.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/obj/Debug/net7.0/QueueCollection.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/obj/Debug/net7.0/QueueCollection.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/obj/Debug/net7.0/QueueCollection.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/obj/Debug/net7.0/QueueCollection.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/obj/Debug/net7.0/QueueCollection.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/obj/Debug/net7.0/QueueCollection.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/obj/Debug/net7.0/refint/QueueCollection.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/obj/Debug/net7.0/QueueCollection.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/obj/Debug/net7.0/QueueCollection.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/QueueCollection/obj/Debug/net7.0/ref/QueueCollection.dll
