@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/bin/Debug/net7.0/PartialClass
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/bin/Debug/net7.0/PartialClass.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/bin/Debug/net7.0/PartialClass.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/bin/Debug/net7.0/PartialClass.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/bin/Debug/net7.0/PartialClass.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/obj/Debug/net7.0/PartialClass.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/obj/Debug/net7.0/PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/obj/Debug/net7.0/PartialClass.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/obj/Debug/net7.0/PartialClass.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/obj/Debug/net7.0/PartialClass.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/obj/Debug/net7.0/PartialClass.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/obj/Debug/net7.0/refint/PartialClass.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/obj/Debug/net7.0/PartialClass.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/obj/Debug/net7.0/PartialClass.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/PartialClass/obj/Debug/net7.0/ref/PartialClass.dll
