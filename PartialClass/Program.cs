@@ -25,6 +25,6 @@ namespace PartialClasses
 
   public partial class Development
   {
-    public void  Database() => Console.WriteLine("This is when the database part of development.");
+    public void  Database() => Console.WriteLine("This is the database part of development.");
   }
 }
