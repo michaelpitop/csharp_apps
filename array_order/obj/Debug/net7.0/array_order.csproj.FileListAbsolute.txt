@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/bin/Debug/net7.0/array_order
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/bin/Debug/net7.0/array_order.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/bin/Debug/net7.0/array_order.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/bin/Debug/net7.0/array_order.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/bin/Debug/net7.0/array_order.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/obj/Debug/net7.0/array_order.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/obj/Debug/net7.0/array_order.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/obj/Debug/net7.0/array_order.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/obj/Debug/net7.0/array_order.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/obj/Debug/net7.0/array_order.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/obj/Debug/net7.0/array_order.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/obj/Debug/net7.0/refint/array_order.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/obj/Debug/net7.0/array_order.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/obj/Debug/net7.0/array_order.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/array_order/obj/Debug/net7.0/ref/array_order.dll
