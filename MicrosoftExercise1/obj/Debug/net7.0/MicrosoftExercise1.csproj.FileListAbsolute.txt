@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/bin/Debug/net7.0/MicrosoftExercise1
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/bin/Debug/net7.0/MicrosoftExercise1.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/bin/Debug/net7.0/MicrosoftExercise1.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/bin/Debug/net7.0/MicrosoftExercise1.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/bin/Debug/net7.0/MicrosoftExercise1.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/obj/Debug/net7.0/MicrosoftExercise1.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/obj/Debug/net7.0/MicrosoftExercise1.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/obj/Debug/net7.0/MicrosoftExercise1.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/obj/Debug/net7.0/MicrosoftExercise1.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/obj/Debug/net7.0/MicrosoftExercise1.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/obj/Debug/net7.0/MicrosoftExercise1.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/obj/Debug/net7.0/refint/MicrosoftExercise1.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/obj/Debug/net7.0/MicrosoftExercise1.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/obj/Debug/net7.0/MicrosoftExercise1.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/MicrosoftExercise1/obj/Debug/net7.0/ref/MicrosoftExercise1.dll
