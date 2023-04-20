@@ -34,6 +34,14 @@ namespace RPGGame2
               new Race("Goblin", 50, 15, 0)
             };
 
+            Enemy[] enemies = new Enemy[] {
+              new Enemy("Zombie", 50, 5, 5),
+              new Enemy("Troll", 200, 15, 5),
+              new Enemy("Bandit", 100, 10, 10),
+              new Enemy("Wolf", 50, 5, 5),
+              new Enemy("Droid", 50, 10, 5)
+            };
+
 
             int raceChoice = 0;
             // string raceString = "";
@@ -149,8 +157,20 @@ namespace RPGGame2
       }
     }
 
-    public class Enemies
+    public class Enemy
     {
+      private string _enemyName = "";
+      private int _health;
+      private int _attack;
+      private int _defense;
 
+    public Enemy(string enemyName, int health, int attack, int defense)
+    {
+        _enemyName = enemyName;
+        _health = health;
+        _attack = attack;
+        _defense = defense;
+
+    }
     }
 }
