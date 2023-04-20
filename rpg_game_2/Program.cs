@@ -27,11 +27,11 @@ namespace RPGGame2
             Console.WriteLine("Please choose a race:  \n1. Human \n2. Elf \n3. Dwarf \n4. Orc \n5. Goblin");
 
             Race[] races = new Race[] {
-              new Race("Human", 10, 10, 5, 5),
-              new Race("Elf", 5, 15, 15, 5),
-              new Race("Dwarf", 15, 5, 10, 10),
-              new Race("Orc", 15, 5, 5, 15),
-              new Race("Goblin", 5, 15, 5, 15)
+              new Race("Human", 100, 10, 5),
+              new Race("Elf", 90, 15, 5),
+              new Race("Dwarf", 150, 5, 15),
+              new Race("Orc", 150, 15, 5),
+              new Race("Goblin", 50, 15, 0)
             };
 
 
@@ -45,7 +45,7 @@ namespace RPGGame2
                 {
                     validInput = true;
                     playerInput.Race = races[raceChoice - 1];
-                    Console.WriteLine($"Your name is {playerInput.Name}. Your chosen race is {playerInput.Race.Name}. Stats: Strength: {playerInput.Race.Strength}, Dexterity: {playerInput.Race.Dexterity}, Intelligence: {playerInput.Race.Intelligence}, Cunning: {playerInput.Race.Cunning}");
+                    Console.WriteLine($"Your Characters Information: \nName: {playerInput.Name} \nRace: {playerInput.Race.Name} \nHealth: {playerInput.Race.Health} \nAttack: {playerInput.Race.Attack} \nDefense: {playerInput.Race.Defense}");
                 }
                 else
                 {
@@ -116,18 +116,16 @@ namespace RPGGame2
     public class Race
     {
       private string _name = "";
-      private int _strength;
-      private int _dexterity;
-      private int _intelligence;
-      private int _cunning;
+      private int _health;
+      private int _attack;
+      private int _defense;
 
-      public Race(string name, int strength, int dexterity, int intelligence, int cunning)
+      public Race(string name, int health, int attack, int defense)
       {
         _name = name;
-        _strength = strength;
-        _dexterity = dexterity;
-        _intelligence = intelligence;
-        _cunning = cunning;
+        _health = health;
+        _attack = attack;
+        _defense = defense;
       }
 
       public string Name
@@ -135,25 +133,19 @@ namespace RPGGame2
         get { return _name; }
       }
 
-      public int Strength
+      public int Health
       {
-        get { return _strength; }
+        get { return _health; }
       }
 
-      public int Dexterity
+      public int Attack
       {
-        get { return _dexterity; }
+        get { return _attack; }
       }
 
-      public int Intelligence
+      public int Defense
       {
-        get { return _intelligence; }
+        get { return _defense; }
       }
-
-      public int Cunning
-      {
-        get { return _cunning; }
-      }
-
     }
 }
