@@ -2,7 +2,10 @@
 // ~~user gets to choose one of the selected races~~
 
 // each race has different attributes
+  // 1. we need to add
 // we add multiple enemies like last time (not public)
+
+
 // add a multiplier with random effect and whenever its above *2 it gives a  message about critical hit
 
 using System;
@@ -17,7 +20,7 @@ namespace RPGGame2
             PlayerInput playerInput = new PlayerInput();
 
             Console.WriteLine("Please enter your name: ");
-            playerInput.Name = Console.ReadLine();
+            playerInput.Name = Console.ReadLine() ?? string.Empty;
 
             Console.WriteLine("Please choose a race:  \n1. Human \n2. Elf \n3. Dwarf \n4. Orc \n5. Goblin");
 
@@ -28,7 +31,7 @@ namespace RPGGame2
             bool validInput = false;
             while (!validInput)
             {
-                string input = Console.ReadLine();
+                string input = Console.ReadLine() ?? string.Empty;
                 if (int.TryParse(input, out raceChoice) && raceChoice >= 1 && raceChoice <= 5)
                 {
                     validInput = true;
