@@ -4,7 +4,7 @@
 // ~~each race has different attributes~~
   // ~~1. we need to add all races in an array~~
   // ~~2. all objects in the array needs to have specific stats~~
-  
+
 // we add multiple enemies like last time (not public)
 
 
@@ -98,7 +98,7 @@ namespace RPGGame2
     public class PlayerInput
     {
         private string _name = "";
-        private Race _race;
+        private Race? _race;
 
         public string Name
         {
@@ -108,7 +108,7 @@ namespace RPGGame2
 
         public Race Race
         {
-          get { return _race; }
+          get { return _race!; }
           set { _race = value; }
         }
     }
