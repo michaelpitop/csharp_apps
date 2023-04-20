@@ -45,7 +45,7 @@ namespace RPGGame2
                 {
                     validInput = true;
                     playerInput.Race = races[raceChoice - 1];
-                    Console.WriteLine($"Your Characters Information: \nName: {playerInput.Name} \nRace: {playerInput.Race.Name} \nHealth: {playerInput.Race.Health} \nAttack: {playerInput.Race.Attack} \nDefense: {playerInput.Race.Defense}");
+                    Console.WriteLine($"Your Characters Information: \nName: {playerInput.Name} \nRace: {playerInput.Race.RaceName} \nHealth: {playerInput.Race.Health} \nAttack: {playerInput.Race.Attack} \nDefense: {playerInput.Race.Defense}");
                 }
                 else
                 {
@@ -115,22 +115,22 @@ namespace RPGGame2
 
     public class Race
     {
-      private string _name = "";
+      private string _raceName = "";
       private int _health;
       private int _attack;
       private int _defense;
 
-      public Race(string name, int health, int attack, int defense)
+      public Race(string raceName, int health, int attack, int defense)
       {
-        _name = name;
+        _raceName = raceName;
         _health = health;
         _attack = attack;
         _defense = defense;
       }
 
-      public string Name
+      public string RaceName
       {
-        get { return _name; }
+        get { return _raceName; }
       }
 
       public int Health
@@ -147,5 +147,10 @@ namespace RPGGame2
       {
         get { return _defense; }
       }
+    }
+
+    public class Enemies
+    {
+
     }
 }
