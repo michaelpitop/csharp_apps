@@ -1,14 +1,10 @@
-﻿// ~~user chooses their name~~
+﻿// TASKS
+// ~~user chooses their name~~
 // ~~user gets to choose one of the selected races~~
-
 // ~~each race has different attributes~~
   // ~~1. we need to add all races in an array~~
   // ~~2. all objects in the array needs to have specific stats~~
-
 //~~ we add multiple enemies like last time (not public)~~
-
-
-// add a multiplier with random effect and whenever its above *2 it gives a  message about critical hit
 
 using System;
 using System.Collections.Generic;
@@ -59,49 +55,69 @@ namespace RPGGame2
                     Console.WriteLine("Invalid input, please try again.");
                 }
             }
-          int index = new Random().Next(0, enemies.Length);
-          Enemy current_enemy = enemies[index]; // IMPORTANT! when you access the RaceName property on an instance of Enemy class, it actually returns the value of EnemyName property.
-          Console.WriteLine($"\nYou're being attacked by a {current_enemy.RaceName}! \nIts stats are: \nHealth: {current_enemy.Health} \nAttack: {current_enemy.Attack} \nDefense: {current_enemy.Defense}");
 
-        // BATTLE LOOP
-        while (playerInput.Race.Health > 0 && current_enemy.Health > 0 )
-        {
-          Console.WriteLine("\nWhat do you want to do?");
-          Console.WriteLine("1. Attack");
-          Console.WriteLine("2. Defend");
+            //FIGHT AGAIN LOOP
+          bool playAgain = true;
+          while (playAgain)
+          {
+            int index = new Random().Next(0, enemies.Length);
+            Enemy current_enemy = enemies[index]; // IMPORTANT! when you access the RaceName property on an instance of Enemy class, it actually returns the value of EnemyName property.
+            Console.WriteLine($"\nYou're being attacked by a {current_enemy.RaceName}! \nIts stats are: \nHealth: {current_enemy.Health} \nAttack: {current_enemy.Attack} \nDefense: {current_enemy.Defense}");
 
-          int choice = int.Parse(Console.ReadLine()!);
+            // BATTLE LOOP
+              while (playerInput.Race.Health > 0 && current_enemy.Health > 0 )
+              {
+                Console.WriteLine("\nWhat do you want to do?");
+                Console.WriteLine("1. Attack");
+                Console.WriteLine("2. Defend");
 
-        // Player attacks or defends
-          if (choice == 1)
-          {
-            current_enemy.Health -= playerInput.Race.Attack - current_enemy.Defense;
-            Console.WriteLine($"\nYou attack the {current_enemy.RaceName} for {playerInput.Race.Attack - current_enemy.Defense} damage. \nEnemys Health is {current_enemy.Health}");
-          }
-          else if (choice == 2)
-          {
-            playerInput.Race.Health -= current_enemy.Attack - playerInput.Race.Defense;
-            Console.WriteLine($"\nYou brace for the enemy's attack. You received {current_enemy.Attack - playerInput.Race.Defense} Damage. Your Health is {playerInput.Race.Health}.");
-          }
-          else
-          {
-            Console.WriteLine("Invalid Choice, please try again");
-            continue;
-          }
-        // who wins
-          if (playerInput.Race.Health <= 0)
-          {
-            Console.WriteLine("\nYou Lost! :c");
-            Environment.Exit(0);
+                int choice = int.Parse(Console.ReadLine()!);
 
-          }
-          else if (current_enemy.Health <= 0)
-          {
-            Console.WriteLine($"You defeated the {current_enemy.RaceName}!");
-            Environment.Exit(0);
+              // Player attacks or defends
+                if (choice == 1)
+                {
+                  current_enemy.Health -= playerInput.Race.Attack - current_enemy.Defense;
+                  Console.WriteLine($"\nYou attack the {current_enemy.RaceName} for {playerInput.Race.Attack - current_enemy.Defense} damage. \nEnemys Health is {current_enemy.Health}");
+                }
+                else if (choice == 2)
+                {
+                  playerInput.Race.Health -= current_enemy.Attack - playerInput.Race.Defense;
+                  Console.WriteLine($"\nYou brace for the enemy's attack. You received {current_enemy.Attack - playerInput.Race.Defense} Damage. Your Health is {playerInput.Race.Health}.");
+                }
+                else
+                {
+                  Console.WriteLine("Invalid Choice, please try again");
+                  continue;
+                }
+              // who wins
+                if (playerInput.Race.Health <= 0)
+                {
+                  Console.WriteLine("\nYou Lost! :c");
+                  // Environment.Exit(0);
+
+                }
+                else if (current_enemy.Health <= 0)
+                {
+                  Console.WriteLine($"You defeated the {current_enemy.RaceName}!");
+                  // Environment.Exit(0);
+                }
+              }
+
+              Console.WriteLine("Do you want to play again? (Y/N)");
+              string answer = Console.ReadLine()!;
+              if (answer.ToLower() == "y")
+              {
+                current_enemy = null!;
+                Enemy new_enemy = enemies[index]; // Generate a new enemy
+              }
+              else
+              {
+                Console.WriteLine("Thanks for playing! Goodbye.");
+                Environment.Exit(0);
+              }
+
           }
         }
-    }
 
     public class PlayerInput
     {
