@@ -5,7 +5,7 @@
   // ~~1. we need to add all races in an array~~
   // ~~2. all objects in the array needs to have specific stats~~
 
-// we add multiple enemies like last time (not public)
+//~~ we add multiple enemies like last time (not public)~~
 
 
 // add a multiplier with random effect and whenever its above *2 it gives a  message about critical hit
@@ -22,7 +22,7 @@ namespace RPGGame2
             PlayerInput playerInput = new PlayerInput();
 
             Console.WriteLine("Please enter your name: ");
-            playerInput.Name = Console.ReadLine() ?? string.Empty;
+            playerInput.Name = Console.ReadLine() ?? string.Empty; //
 
             Console.WriteLine("Please choose a race:  \n1. Human \n2. Elf \n3. Dwarf \n4. Orc \n5. Goblin");
 
@@ -62,14 +62,16 @@ namespace RPGGame2
 
           Random random = new Random();
           int index = random.Next(enemies.Length);
-          Console.WriteLine("\nYou're being attacked by a " + enemies[index].RaceName + "!");
+          Console.WriteLine("\nYou're being attacked by a " + enemies[index].RaceName + "!"); // IMPORTANT! when you access the RaceName property on an instance of Enemy class, it actually returns the value of EnemyName property.
+
+
         }
     }
 
     public class PlayerInput
     {
         private string _name = "";
-        private Race? _race;
+        private Race? _race; // added ? before the property to solve the non-nullable warning
 
         public string Name
         {
@@ -79,7 +81,7 @@ namespace RPGGame2
 
         public Race Race
         {
-          get { return _race!; }
+          get { return _race!; } // adding an exclamation point gets rid of the non-nullable warning, tells the program that this CANT be null.
           set { _race = value; }
         }
     }
@@ -99,7 +101,7 @@ namespace RPGGame2
         _defense = defense;
       }
 
-      public virtual string RaceName
+      public virtual string RaceName // NOTE TO SELF: since this is a property that we override we need to add virtual!!!
       {
         get { return _raceName; }
       }
@@ -120,7 +122,7 @@ namespace RPGGame2
       }
     }
 
-        public class Enemy : Race
+        public class Enemy : Race // used inheritence since most of our properties are the same as the Race class
     {
         private string _enemyName;
 
