@@ -44,7 +44,6 @@ namespace RPGGame2
 
 
             int raceChoice = 0;
-            // string raceString = "";
 
             bool validInput = false;
             while (!validInput)
@@ -61,6 +60,9 @@ namespace RPGGame2
                 }
             }
 
+          Random random = new Random();
+          int index = random.Next(enemies.Length);
+          Console.WriteLine("\nYou're being attacked by a " + enemies[index].RaceName + "!");
         }
     }
 
@@ -97,7 +99,7 @@ namespace RPGGame2
         _defense = defense;
       }
 
-      public string RaceName
+      public virtual string RaceName
       {
         get { return _raceName; }
       }
@@ -118,23 +120,18 @@ namespace RPGGame2
       }
     }
 
-    public class Enemy : Race
+        public class Enemy : Race
     {
-      private string _enemyName{ get; set; }
-      private int _health { get; set; }
-      private int _attack { get; set; }
-      private int _defense { get; set; }
+        private string _enemyName;
 
-    public override RaceName ToString()
-    {
-      return enemyName.ToString();
-    }
-    public Enemy(string enemyName, int health, int attack, int defense)
-    {
-        _enemyName = enemyName;
-        _health = health;
-        _attack = attack;
-        _defense = defense;
-    }
+        public Enemy(string enemyName, int health, int attack, int defense) : base("", health, attack, defense)
+        {
+            _enemyName = enemyName;
+        }
+
+        public override string RaceName
+        {
+            get { return _enemyName; }
+        }
     }
 }
