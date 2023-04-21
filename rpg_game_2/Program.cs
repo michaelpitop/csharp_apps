@@ -59,10 +59,12 @@ namespace RPGGame2
                     Console.WriteLine("Invalid input, please try again.");
                 }
             }
+          int index = new Random().Next(0, enemies.Length);
+          Enemy current_enemy = enemies[index]; // IMPORTANT! when you access the RaceName property on an instance of Enemy class, it actually returns the value of EnemyName property.
+          Console.WriteLine($"\nYou're being attacked by a {current_enemy.RaceName}! \nIts stats are: \nHealth: {current_enemy.Health} \nAttack: {current_enemy.Attack} \nDefense: {current_enemy.Defense}");
 
-          Random random = new Random();
-          int index = random.Next(enemies.Length);
-          Console.WriteLine("\nYou're being attacked by a " + enemies[index].RaceName + "!"); // IMPORTANT! when you access the RaceName property on an instance of Enemy class, it actually returns the value of EnemyName property.
+        // BATTLE LOOP
+
 
 
         }
