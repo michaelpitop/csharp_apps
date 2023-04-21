@@ -75,26 +75,31 @@ namespace RPGGame2
         // Player attacks or defends
           if (choice == 1)
           {
-            Console.WriteLine($"\nYou attack the {current_enemy.RaceName} for {playerInput.Race.Attack - current_enemy.Defense} damage. \nEnemys Health is {current_enemy.Health}");
             current_enemy.Health -= playerInput.Race.Attack - current_enemy.Defense;
+            Console.WriteLine($"\nYou attack the {current_enemy.RaceName} for {playerInput.Race.Attack - current_enemy.Defense} damage. \nEnemys Health is {current_enemy.Health}");
           }
           else if (choice == 2)
           {
-            Console.WriteLine("\nYou brace for the enemy's attack.");
             playerInput.Race.Health -= current_enemy.Attack - playerInput.Race.Defense;
+            Console.WriteLine($"\nYou brace for the enemy's attack. You received {current_enemy.Attack - playerInput.Race.Defense} Damage. Your Health is {playerInput.Race.Health}.");
           }
           else
           {
             Console.WriteLine("Invalid Choice, please try again");
             continue;
           }
+        // who wins
+          if (playerInput.Race.Health <= 0)
+          {
+            Console.WriteLine("\nYou Lost! :c");
+            Environment.Exit(0);
 
-
-
-
-
-
-
+          }
+          else if (current_enemy.Health <= 0)
+          {
+            Console.WriteLine($"You defeated the {current_enemy.RaceName}!");
+            Environment.Exit(0);
+          }
         }
     }
 
