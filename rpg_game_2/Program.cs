@@ -17,8 +17,8 @@ namespace RPGGame2
         {
             PlayerInput playerInput = new PlayerInput();
 
-            Console.WriteLine("Please enter your name: ");
-            playerInput.Name = Console.ReadLine() ?? string.Empty; //
+            Console.WriteLine("Welcome to RPGGAame2! \n\nPlease enter your name: ");
+            playerInput.Name = Console.ReadLine() ?? string.Empty; // useful for possible null reference warnings
 
             Console.WriteLine("Please choose a race:  \n1. Human \n2. Elf \n3. Dwarf \n4. Orc \n5. Goblin");
 
@@ -56,7 +56,7 @@ namespace RPGGame2
                 }
             }
 
-            //FIGHT AGAIN LOOP
+            //PLAY AGAIN LOOP
           bool playAgain = true;
           while (playAgain)
           {
@@ -64,7 +64,7 @@ namespace RPGGame2
             Enemy current_enemy = enemies[index]; // IMPORTANT! when you access the RaceName property on an instance of Enemy class, it actually returns the value of EnemyName property.
             Console.WriteLine($"\nYou're being attacked by a {current_enemy.RaceName}! \nIts stats are: \nHealth: {current_enemy.Health} \nAttack: {current_enemy.Attack} \nDefense: {current_enemy.Defense}");
 
-            // BATTLE LOOP
+            //BATTLE LOOP
               while (playerInput.Race.Health > 0 && current_enemy.Health > 0 )
               {
                 Console.WriteLine("\nWhat do you want to do?");
@@ -93,17 +93,15 @@ namespace RPGGame2
                 if (playerInput.Race.Health <= 0)
                 {
                   Console.WriteLine("\nYou Lost! :c");
-                  // Environment.Exit(0);
 
                 }
                 else if (current_enemy.Health <= 0)
                 {
                   Console.WriteLine($"You defeated the {current_enemy.RaceName}!");
-                  // Environment.Exit(0);
                 }
               }
 
-              Console.WriteLine("Do you want to play again? (Y/N)");
+              Console.WriteLine("\nDo you want to play again? (Y/N)");
               string answer = Console.ReadLine()!;
               if (answer.ToLower() == "y")
               {
@@ -112,7 +110,7 @@ namespace RPGGame2
               }
               else
               {
-                Console.WriteLine("Thanks for playing! Goodbye.");
+                Console.WriteLine("\nThanks for playing! Goodbye.");
                 Environment.Exit(0);
               }
 
