@@ -64,6 +64,34 @@ namespace RPGGame2
           Console.WriteLine($"\nYou're being attacked by a {current_enemy.RaceName}! \nIts stats are: \nHealth: {current_enemy.Health} \nAttack: {current_enemy.Attack} \nDefense: {current_enemy.Defense}");
 
         // BATTLE LOOP
+        while (playerInput.Race.Health > 0 && current_enemy.Health > 0 )
+        {
+          Console.WriteLine("\nWhat do you want to do?");
+          Console.WriteLine("1. Attack");
+          Console.WriteLine("2. Defend");
+
+          int choice = int.Parse(Console.ReadLine()!);
+
+        // Player attacks or defends
+          if (choice == 1)
+          {
+            Console.WriteLine($"\nYou attack the {current_enemy.RaceName} for {playerInput.Race.Attack - current_enemy.Defense} damage. \nEnemys Health is {current_enemy.Health}");
+            current_enemy.Health -= playerInput.Race.Attack - current_enemy.Defense;
+          }
+          else if (choice == 2)
+          {
+            Console.WriteLine("\nYou brace for the enemy's attack.");
+            playerInput.Race.Health -= current_enemy.Attack - playerInput.Race.Defense;
+          }
+          else
+          {
+            Console.WriteLine("Invalid Choice, please try again");
+            continue;
+          }
+
+
+
+
 
 
 
@@ -111,6 +139,7 @@ namespace RPGGame2
       public int Health
       {
         get { return _health; }
+        set { _health = value; }
       }
 
       public int Attack
@@ -137,5 +166,6 @@ namespace RPGGame2
         {
             get { return _enemyName; }
         }
+    }
     }
 }
