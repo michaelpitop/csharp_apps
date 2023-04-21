@@ -59,45 +59,6 @@ namespace RPGGame2
                 {
                     Console.WriteLine("Invalid input, please try again.");
                 }
-
-                // string input = Console.ReadLine() ?? string.Empty;
-                // if (int.TryParse(input, out raceChoice) && raceChoice >= 1 && raceChoice <= 5)
-                // {
-                //     validInput = true;
-                //     switch (raceChoice)
-                //     {
-                //         case 1:
-                //             raceString = "Human";
-                //             Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
-                //             break;
-                //         case 2:
-                //             raceString = "Elf";
-                //             Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
-                //             break;
-                //         case 3:
-                //             raceString = "Dwarf";
-                //             Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
-                //             break;
-                //         case 4:
-                //             raceString = "Orc";
-                //             Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
-                //             break;
-                //         case 5:
-                //             raceString = "Goblin";
-                //             Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
-                //             break;
-                //         default:
-                //           raceString = "Invalid";
-                //           Console.WriteLine($"Your name is {playerInput.Name} and your chosen race is {raceString}");
-                //           break;
-                //     }
-                // }
-                // else
-                // {
-                //     Console.WriteLine("Invalid input, please try again.");
-                //     break;
-                // }
-                // playerInput.Race = raceChoice;
             }
 
         }
@@ -157,20 +118,23 @@ namespace RPGGame2
       }
     }
 
-    public class Enemy
+    public class Enemy : Race
     {
-      private string _enemyName = "";
-      private int _health;
-      private int _attack;
-      private int _defense;
+      private string _enemyName{ get; set; }
+      private int _health { get; set; }
+      private int _attack { get; set; }
+      private int _defense { get; set; }
 
+    public override RaceName ToString()
+    {
+      return enemyName.ToString();
+    }
     public Enemy(string enemyName, int health, int attack, int defense)
     {
         _enemyName = enemyName;
         _health = health;
         _attack = attack;
         _defense = defense;
-
     }
     }
 }
