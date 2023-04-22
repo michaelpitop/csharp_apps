@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/bin/Debug/net7.0/booking_app
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/bin/Debug/net7.0/booking_app.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/bin/Debug/net7.0/booking_app.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/bin/Debug/net7.0/booking_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/bin/Debug/net7.0/booking_app.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/obj/Debug/net7.0/booking_app.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/obj/Debug/net7.0/booking_app.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/obj/Debug/net7.0/booking_app.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/obj/Debug/net7.0/booking_app.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/obj/Debug/net7.0/booking_app.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/obj/Debug/net7.0/booking_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/obj/Debug/net7.0/refint/booking_app.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/obj/Debug/net7.0/booking_app.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/obj/Debug/net7.0/booking_app.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/booking_app/obj/Debug/net7.0/ref/booking_app.dll
