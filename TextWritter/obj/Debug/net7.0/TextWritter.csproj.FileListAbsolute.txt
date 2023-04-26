@@ -1,0 +1,15 @@
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/bin/Debug/net7.0/TextWritter
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/bin/Debug/net7.0/TextWritter.deps.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/bin/Debug/net7.0/TextWritter.runtimeconfig.json
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/bin/Debug/net7.0/TextWritter.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/bin/Debug/net7.0/TextWritter.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/obj/Debug/net7.0/TextWritter.csproj.AssemblyReference.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/obj/Debug/net7.0/TextWritter.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/obj/Debug/net7.0/TextWritter.AssemblyInfoInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/obj/Debug/net7.0/TextWritter.AssemblyInfo.cs
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/obj/Debug/net7.0/TextWritter.csproj.CoreCompileInputs.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/obj/Debug/net7.0/TextWritter.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/obj/Debug/net7.0/refint/TextWritter.dll
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/obj/Debug/net7.0/TextWritter.pdb
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/obj/Debug/net7.0/TextWritter.genruntimeconfig.cache
+/home/michaelpitop/code/michaelpitop/csharp_apps/TextWritter/obj/Debug/net7.0/ref/TextWritter.dll
